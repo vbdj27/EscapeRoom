@@ -5,3 +5,7 @@
 /Plugins
 *.sln
 *_BuiltData.uasset
+Binaries/Win64/UE4Editor.modules
+Binaries/Win64/UE4Editor-EscapeRoom-3230.pdb
+Binaries/Win64/UE4Editor-EscapeRoom-3230.dll
+Binaries/Win64/EscapeRoomEditor.target
